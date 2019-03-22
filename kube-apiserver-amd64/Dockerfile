@@ -1,2 +1,2 @@
-FROM k8s.grc.io/kubernetes-apiserver-adm64:v1.11.8
+FROM gcr.io/google_containers/kube-apiserver-amd64:v1.11.8
 MAINTAINER syk-1
